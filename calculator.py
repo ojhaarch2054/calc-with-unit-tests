@@ -52,8 +52,8 @@ def remainder():
         print("Invalid input. Please enter numeric values.")
 
 #call functions
-add()
+'''add()
 subtract()
 multiplication()
 divide()
-remainder()
+remainder()'''
